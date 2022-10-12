@@ -1,0 +1,246 @@
+html body{
+	font-family: 'Cairo', sans-serif;
+
+}
+img{
+	max-width: 100%;
+}
+.navbar-brand img {
+	height: 60px;
+}
+.navbar-light .navbar-toggler-icon{
+	 background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(83,181,233, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.left-slogan{
+	background-image: url("imgs/header-side.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.left-slogan h1 {
+	margin-top: 150px;
+	font-size: 60px;
+	line-height: 1.7;
+}
+.who{
+    color: #233142;
+    text-align: center;
+    padding-top: 3rem;
+	
+}
+.lineh1{
+	border-bottom: 2px solid #3AADE6;
+    width: 6%;
+    padding-top: 1rem;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+.we {
+    font-size: 30px;
+    line-height: 1.8;
+    margin-top: 9rem;
+    color: #233142;
+}
+.our-work {
+    color: #233142;
+    text-align: center;
+    padding-top: 3rem;
+	
+}
+.card-text{
+	text-align: center;
+}
+.card{
+  
+  box-sizing: border-box;
+  box-shadow: 5px 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 20px;
+	
+		
+
+}
+
+.card img{
+	border-radius:7%;
+	box-sizing: border-box;
+	margin-top: 1px;
+	    line-height: 1.5;
+}
+.can{ margin-right: 100px;
+	  line-height: 1.5;}
+
+
+.ourwork{ background-image: url(" imgs/bg30-Ar1web.gif");
+	padding-bottom: 3rem;
+	
+}
+
+.align {
+    padding: 2rem 0;
+    text-align: center;
+	
+	
+}
+
+.watch-more {
+    background-color: #233142;
+    color: white;
+    padding: 10px 80px;
+    margin: 0 auto;
+    border-radius: 50px;
+    box-shadow: 5px 5px 15px #888888;
+    margin-left: 100px;
+}
+
+
+.other{ padding: 50px 380px 15px 150px;
+	
+}
+.btn-other{ margin-left: 200px;
+	
+}
+.btn-card{        background-color: #233142;
+    color: white;
+    padding: 10px 80px;
+    margin: 0 auto;
+    border-radius: 50px;
+    box-shadow: 5px 5px 15px #888888;
+    margin-left: 100px;
+
+	
+}
+.two{ position: absolute;
+	   z-index: 2;
+	
+	
+	
+}
+#footer {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-image: url( "imgs/footer.jpg");
+}
+#footer {
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+#footer-vec {
+    width: 40%;
+    height: 100%;
+}
+.footer-logo {
+	width: 40%;}
+
+.address {
+    color: white;
+    margin-left: 6.5rem;
+    padding-bottom: 1rem;
+    margin-top: 1.5rem;
+}
+.container {
+    max-width: 960px;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#we-offer {
+    background-image: url(imgs/we-offer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.owl-carousel {
+    padding: 3rem;
+    box-sizing: border-box;
+}
+.text-center {
+    text-align: center!important;
+}
+.our-project {
+    padding-top: 20px;
+    background-image: url(imgs/bg30-Ar1web.gif);
+}
+.pb-3 {
+    padding-bottom: 1rem!important;
+}
+.pt-3 {
+    padding-top: 1rem!important;
+}
+.works h2 {
+    border-right: 3px solid #57b7e6;
+    text-align: initial;
+    padding: 5px 20px;
+    margin-right: 10px;
+}
+.our-work {
+    margin: -10px;
+}
+.text-center {
+    text-align: center!important;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+ .page-nav {
+        height: 60px;
+    }
+    .page-nav ul {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        padding-top: 10px;
+    }
+    .main-title {
+        background-image: url(imgs/bg30-Ar1web.gif);
+    }
+    
+    .main-title h1 {
+        border-right: 3px solid #3AADE6;
+        height: 30px;
+        font-size: 20px;
+        padding-right: 10px;
+    }
+    .text-center {
+        text-align: center!important;
+    }
+    .row.d-flex {
+        justify-content: space-around;
+        
+        padding-bottom: 50px;
+    }
+    .micro .box {
+        border-radius: 20px 20px;
+        box-shadow: 10px;
+        box-shadow: 1px 6px 10px #a4a4a4;
+        padding-bottom: 100px;
+        padding-top: 100px;
+        padding-bottom: 20px;
+    }
+    .title-micro {
+        font-size: 20px;
+        padding-right: 100px;
+        padding-left: 100px;
+        padding-top: 30px;
+        line-height: 40px;
+    }
+    .article h1 {
+        border-right: 3px solid #3AADE6;
+        height: 30px;
+        font-size: 30px;
+        padding-right: 10px;
+    }
+    .our-article {
+        background-image: url(imgs/articles.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+.titel { margin: 15px;
+
+
+
+}
